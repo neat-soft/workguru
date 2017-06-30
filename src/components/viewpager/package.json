@@ -1,0 +1,60 @@
+{
+  "_from": "react-native-viewpager",
+  "_id": "react-native-viewpager@0.2.13",
+  "_inBundle": false,
+  "_integrity": "sha1-deQhrpDonvzXfSwHfAUlOCt8OcU=",
+  "_location": "/react-native-viewpager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-viewpager",
+    "name": "react-native-viewpager",
+    "escapedName": "react-native-viewpager",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-viewpager/-/react-native-viewpager-0.2.13.tgz",
+  "_shasum": "75e421ae90e89efcd77d2c077c0525382b7c39c5",
+  "_spec": "react-native-viewpager",
+  "_where": "/Users/dev/Desktop/Work/React/WorkGuru",
+  "author": {
+    "name": "Race604"
+  },
+  "bugs": {
+    "url": "https://github.com/race604/react-native-viewpager/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3",
+    "warning": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "ViewPager componnent for React Native",
+  "homepage": "https://github.com/race604/react-native-viewpager#readme",
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "viewpager",
+    "pager"
+  ],
+  "license": "MIT",
+  "main": "ViewPager.js",
+  "name": "react-native-viewpager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/race604/react-native-viewpager.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.13"
+}

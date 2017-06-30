@@ -1,0 +1,41 @@
+{
+  "name": "WorkGuru",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "plist": "^2.1.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.45.1",
+    "react-native-fbsdk": "^0.6.1",
+    "react-native-firebase": "^1.1.1",
+    "react-native-key-value-store": "^1.0.1",
+    "react-native-multi-slider": "^0.3.5",
+    "react-native-prompt": "^1.0.0",
+    "react-native-storage": "^0.2.2",
+    "react-native-swipe-list-view": "^0.4.1",
+    "react-native-vector-icons": "^4.2.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.0",
+    "redux-immutable-state-invariant": "^2.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^4.8.0",
+    "redux-thunk": "^2.2.0",
+    "reduxsauce": "^0.5.0",
+    "xcode": "^0.9.3"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "2.0.0",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

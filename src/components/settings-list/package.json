@@ -1,0 +1,60 @@
+{
+  "_from": "react-native-settings-list",
+  "_id": "react-native-settings-list@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-dVM+cuEJ6kePmr2cxJFwOXAVOls=",
+  "_location": "/react-native-settings-list",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-settings-list",
+    "name": "react-native-settings-list",
+    "escapedName": "react-native-settings-list",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-settings-list/-/react-native-settings-list-1.4.0.tgz",
+  "_shasum": "75533e72e109ea478f9abd9cc491703970153a5b",
+  "_spec": "react-native-settings-list",
+  "_where": "/Users/dev/Desktop/Work/React/WorkGuru",
+  "author": {
+    "name": "Steve Singrattana",
+    "email": "steve@projectinf.com"
+  },
+  "bugs": {
+    "url": "https://github.com/evetstech/react-native-settings-list/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A clean and highly customizable React Native implementation of a list of settings for a settings page.",
+  "devDependencies": {
+    "react": ">=0.14.0",
+    "react-native": ">=0.18.0"
+  },
+  "homepage": "https://github.com/evetstech/react-native-settings-list#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "settings-list",
+    "settings"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-settings-list",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evetstech/react-native-settings-list.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.4.0"
+}
